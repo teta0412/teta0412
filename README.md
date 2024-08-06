@@ -29,7 +29,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=teta">「 Google Me 」</a>
     <br>
     「 I am a IT student from <b>Vietnam</b> 」
     <br>
